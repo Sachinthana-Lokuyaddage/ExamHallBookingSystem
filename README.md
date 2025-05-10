@@ -47,7 +47,7 @@ User Accounts and Authentication, User Profile Management, Exam Hall Management,
 
 #### 🎨 Designers : [PERERA S.D.M.](https://github.com/ManashviCode) ,  [JAYASINGHE P.A.](https://github.com/ParamiJayasinghe)
 
-#### 👨‍💻 Senior Software Engineers  :  [SWARNAKUMARA L.Y.S.B.](https://github.com/cydexcode) (Tech Lead) ,  [JAYAWARDHANA D.D.V.M.](https://github.com/ManurangaJay)
+#### 👨‍💻 Senior Software Engineers  :  [SWARNAKUMARA L.Y.S.B.](https://github.com/Sachinthana-Lokuyaddage) (Tech Lead) ,  [JAYAWARDHANA D.D.V.M.](https://github.com/ManurangaJay)
 
 #### 👨‍💻 Software Engineers  :  [SANDUPAMA M.V.D.G.](https://github.com/GithminiSandupama) ,  [SENEVIRATHNE S.M.M.I.](https://github.com/manoda98) , - [JEEWANTHI U.B.T.](https://github.com/ThanujaJeewanthi)
 
